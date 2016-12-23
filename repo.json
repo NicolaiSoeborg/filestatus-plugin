@@ -1,0 +1,14 @@
+[{
+  "Name": "filestatus",
+  "Description": "Plugin to detect if the buffer has been modified.",
+  "Tags": ["filestatus, crc32"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/NicolaiSoeborg/filestatus-plugin/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.0"
+      }
+    }
+  ]
+}]
